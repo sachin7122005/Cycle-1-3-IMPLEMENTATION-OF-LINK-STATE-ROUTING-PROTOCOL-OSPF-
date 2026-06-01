@@ -35,10 +35,9 @@ To connect computers in multiple networks using Open Shortest Path First (OSPF) 
 ---
 
 ## 🗺️ NETWORK DIAGRAM
-*(Insert diagram or screenshot from Packet Tracer)*
 
 ---
-<img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/ca993ef1-ac39-413a-a79b-bd26f9cc0615" />
+<img width="1006" height="617" alt="image" src="https://github.com/user-attachments/assets/1ce8ef90-f7e7-4658-8788-5f37cd649369" />
 
 
 ## 🧭 PROCEDURE
@@ -110,8 +109,8 @@ Router1# show ip route
 ```
 ## 📤 OUTPUT
 ---
-<img width="841" height="1013" alt="image" src="https://github.com/user-attachments/assets/54e37780-24ab-404b-bcdf-566a194afcb9" />
-
+<img width="940" height="620" alt="image" src="https://github.com/user-attachments/assets/3f0ec64b-0c76-404e-923b-cf5b8e959c6f" />
+<img width="1600" height="1260" alt="image" src="https://github.com/user-attachments/assets/c78505ae-2c5c-4862-8dbc-7c17da6f23ac" />
 
 
 ## 📝 RESULT
